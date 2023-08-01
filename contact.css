@@ -1,0 +1,94 @@
+.main{
+    background-color: rgb(255, 235, 205);
+    width: 100%;
+    height: 80vh;
+    
+}
+.contactForm{
+    font-family: 'Quicksand', sans-serif;
+    padding: 0 40px;
+    padding-top: 150px;
+}
+.Nform{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contactForm h1{
+    font-family: 'Source Code Pro', monospace;
+    text-align: center;
+}
+
+/* .contactForm form div{
+    padding: 10px 0;
+    
+}
+#clientName{
+    display: flex;
+    flex-direction: column;
+    width: 14.5rem;
+    border-radius: 5px;
+    margin: 6p 0;
+    padding: 3px;
+}
+#clientEmail{
+    display: flex;
+    flex-direction: column;
+    width: 14.5rem;
+    border-radius: 5px;
+    margin: 6p 0;
+    padding: 3px;
+}
+#clientPhone{
+    display: flex;
+    flex-direction: column;
+    width: 14.5rem;
+    border-radius: 5px;
+    margin: 6p 0;
+    padding: 3px;
+}
+
+#emailHelp{
+    font-size: 10px;
+    margin: 0 5px;
+} */
+
+.gmailid a{
+    text-decoration: none;
+    font-size: 50px;
+    color: black;
+    
+    
+}
+.gmailid {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 40px;
+    border-radius: 10px;
+    
+}
+.whatsapp a{
+    text-decoration: none;
+    font-size: 50px;
+    color: black;
+}
+.whatsapp{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 40px;
+    font-size: 80px;
+    color: green;
+    
+}
+.fa-whatsapp{
+    color: green;
+}
+.fa-envelope-o{
+    color: red;
+}
+#gmail{
+    align-items: center;
+}

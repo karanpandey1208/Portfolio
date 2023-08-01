@@ -1,0 +1,278 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Quicksand&family=Source+Code+Pro:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Cinzel&family=Quicksand&family=Source+Code+Pro:wght@300&display=swap');
+
+.main{
+    background-color: rgb(255, 235, 205);
+    width: 100%;
+    height: 100rem;
+    
+}
+.introduction{
+    font-family: 'Source Code Pro', monospace;
+    position:relative;
+    text-align: center;
+    
+    margin-top: 45px;
+    margin-bottom: -5rem;
+}
+.intro{
+    font-family: 'Quicksand', sans-serif;
+}
+.card{
+    display: flex;
+    text-align: center;
+    
+}
+
+.card1{
+    text-align: center;
+    position:relative;
+    background: white;
+    border-radius: 1rem;
+    padding: 1.5rem;
+    box-shadow: 3px 3px 12px 2px rgba(black, 0.6);
+    transition: 0.2s;
+    right: 10rem;
+    
+}
+.coding1{
+    background: white;
+    border-radius: 1rem;
+    padding: 0.5rem;
+    box-shadow: 3px 3px 12px 2px rgba(black, 0.6);
+    transition: 0.2s;
+    position:absolute;
+    top: 10rem;
+    right: 14rem;
+}
+.card2{
+    position:relative;
+    background: white;
+    border-radius: 1rem;
+    padding: 1.5rem;
+    box-shadow: 3px 3px 12px 2px rgba(black, 0.6);
+    transition: 0.2s;
+    left: 10rem;
+    
+    
+}
+.coding2{
+    background: white;
+    border-radius: 1rem;
+    padding: 0.5rem;
+    box-shadow: 3px 3px 12px 2px rgba(black, 0.6);
+    transition: 0.2s;
+    position:absolute;
+    top: 24rem;
+    left: 14rem;
+}
+.card3{
+    position:relative;
+    background: white;
+    border-radius: 1rem;
+    padding: 1.5rem;
+    box-shadow: 3px 3px 12px 2px rgba(black, 0.6);
+    transition: 0.2s;
+    right: 10rem;
+    
+    
+}
+.coding3{
+    background: white;
+    border-radius: 1rem;
+    padding: 0.5rem;
+    box-shadow: 3px 3px 12px 2px rgba(black, 0.6);
+    transition: 0.2s;
+    position:absolute;
+    top: 39rem;
+    right: 14rem;
+}
+.card4{
+    position:relative;
+    background: white;
+    border-radius: 1rem;
+    padding: 1.5rem;
+    box-shadow: 3px 3px 12px 2px rgba(black, 0.6);
+    transition: 0.2s;
+    left: 10rem;
+   
+}
+.coding4{
+    background: white;
+    border-radius: 1rem;
+    padding: 0.5rem;
+    box-shadow: 3px 3px 12px 2px rgba(black, 0.6);
+    transition: 0.2s;
+    position:absolute;
+    top: 52rem;
+    left: 14rem;
+}
+.card5{
+    position:relative;
+    background: white;
+    border-radius: 1rem;
+    padding: 1.5rem;
+    box-shadow: 3px 3px 12px 2px rgba(black, 0.6);
+    transition: 0.2s;
+    right: 10rem;
+    
+}
+.coding5{
+    background: white;
+    border-radius: 1rem;
+    padding: 0.5rem;
+    box-shadow: 3px 3px 12px 2px rgba(black, 0.6);
+    transition: 0.2s;
+    position:absolute;
+    top: 63rem;
+    right: 16rem;
+}
+.card6{
+    position:relative;
+    background: white;
+    border-radius: 1rem;
+    padding: 1.5rem;
+    box-shadow: 3px 3px 12px 2px rgba(black, 0.6);
+    transition: 0.2s;
+    left: 10rem;
+}
+.coding6{
+    background: white;
+    border-radius: 1rem;
+    padding: 0.5rem;
+    box-shadow: 3px 3px 12px 2px rgba(black, 0.6);
+    transition: 0.2s;
+    position:absolute;
+    top: 76rem;
+    left: 16rem;
+}
+.card7{
+    position:relative;
+    background: white;
+    border-radius: 1rem;
+    padding: 1.5rem;
+    box-shadow: 3px 3px 12px 2px rgba(black, 0.6);
+    transition: 0.2s;
+    right: 10rem;
+}
+.coding7{
+    background: white;
+    border-radius: 1rem;
+    padding: 0.5rem;
+    box-shadow: 3px 3px 12px 2px rgba(black, 0.6);
+    transition: 0.2s;
+    position:absolute;
+    top: 88rem;
+    right: 16rem;
+}
+
+
+@media(max-width: 694px){
+    
+    .card1{
+        position:inherit;
+        background: white;
+        border-radius: 1rem;
+        padding: 1.5rem;
+        box-shadow: 3px 3px 12px 2px rgba(black, 0.6);
+        transition: 0.2s;
+        right: 0rem;
+        margin-bottom: 2rem;
+        
+    }
+    .card2{
+        position:inherit;
+        background: white;
+        border-radius: 1rem;
+        padding: 1.5rem;
+        box-shadow: 3px 3px 12px 2px rgba(black, 0.6);
+        transition: 0.2s;
+        left: 0rem;
+        margin-bottom: 2rem;
+        
+    }
+    .card3{
+        position:inherit;
+        background: white;
+        border-radius: 1rem;
+        padding: 1.5rem;
+        box-shadow: 3px 3px 12px 2px rgba(black, 0.6);
+        transition: 0.2s;
+        right: 0rem;
+        margin-bottom: 2rem;
+        
+    }
+    .card4{
+        position:inherit;
+        background: white;
+        border-radius: 1rem;
+        padding: 1.5rem;
+        box-shadow: 3px 3px 12px 2px rgba(black, 0.6);
+        transition: 0.2s;
+        left: 0rem;
+        margin-bottom: 2rem;
+        
+    }
+    .card5{
+        position:inherit;
+        background: white;
+        border-radius: 1rem;
+        padding: 1.5rem;
+        box-shadow: 3px 3px 12px 2px rgba(black, 0.6);
+        transition: 0.2s;
+        right: 0rem;
+        margin-bottom: 2rem;
+        
+    }
+    .card6{
+        position:inherit;
+        background: white;
+        border-radius: 1rem;
+        padding: 1.5rem;
+        box-shadow: 3px 3px 12px 2px rgba(black, 0.6);
+        transition: 0.2s;
+        left: 0rem;
+        margin-bottom: 2rem;
+        
+    }
+    .card7{
+        position:inherit;
+        background: white;
+        border-radius: 1rem;
+        padding: 1.5rem;
+        box-shadow: 3px 3px 12px 2px rgba(black, 0.6);
+        transition: 0.2s;
+        right: 0rem;
+        margin-bottom: 2rem;
+        
+    }
+    
+}
+@media(max-width: 1089px){
+    .coding1{
+        display: none;
+    }
+    .coding2{
+        display: none;
+    }
+    .coding3{
+        display: none;
+    }
+    .coding4{
+        display: none;
+    }
+    .coding5{
+        display: none;
+    }
+    .coding6{
+        display: none;
+    }
+    .coding7{
+        display: none;
+    }
+
+
+
+}
